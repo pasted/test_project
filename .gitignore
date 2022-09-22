@@ -5,6 +5,8 @@
 # Session Data files
 .RData
 
+config.yaml
+
 # User-specific files
 .Ruserdata
 
